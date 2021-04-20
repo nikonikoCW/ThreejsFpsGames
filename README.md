@@ -1,5 +1,5 @@
 # threejsfpsgames
-
+_官方fps-games替换了模型_
 ## Project setup
 ```
 npm install
